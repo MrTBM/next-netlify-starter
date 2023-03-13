@@ -13,9 +13,12 @@ export default function Home() {
       <main>
         <Header title="Welcome to Fosshost" />
         <p className="description">
-          We are currently accepting applications for bare metal hardware.
-    It is with unfortunate regret, that we no longer provide hosting services to tenants directly.
+          We are currently accepting applications for bare metal hardware.  You can register your interest here. 
+    It is with unfortunate regret that we no longer provide hosting services to tenants directly.
         </p>
+    
+    <p>
+    If you need help please email helpme@fosshost.org
       </main>
 
       <Footer />
