@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to Fosshost" />
         <p className="description">
-          We are curerntly accepting applications for bare metal hardware <code>pages/apply.js</code>
+          We are currently accepting applications for bare metal hardware.
+    It is with unfortunate regret, that we no longer provide hosting services to tenants directly.
         </p>
       </main>
 
